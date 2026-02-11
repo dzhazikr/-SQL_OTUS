@@ -33,5 +33,4 @@ psql -f database/sql_scripts/04_procedures.sql
 psql -f database/sql_scripts/05_optimization.sql
 
 
-5. Использование
 Примеры аналитических запросов находятся в папке reports.
