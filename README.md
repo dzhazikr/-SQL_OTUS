@@ -33,4 +33,4 @@ psql -f database/sql_scripts/04_procedures.sql
 psql -f database/sql_scripts/05_optimization.sql
 
 
-Примеры аналитических запросов находятся в папке reports.
+Примеры аналитических запросов находятся в папке reports/analysis_examples.sql.
