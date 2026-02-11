@@ -23,8 +23,8 @@ SQL для разработчиков и аналитиков
 
 4. Установка и запуск
 
-1. Установите PostgreSQL
-2. Выполните скрипты в порядке:
+- Установите PostgreSQL
+- Выполните скрипты в порядке:
 ```bash
 psql -f database/sql_scripts/01_create_tables.sql
 psql -f database/sql_scripts/02_insert_data.sql
