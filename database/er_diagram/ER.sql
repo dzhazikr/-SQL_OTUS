@@ -1,5 +1,3 @@
-// Создайте файл er_diagram.dbd и вставьте этот код:
-
 Table regions {
   region_id integer [primary key]
   region_name varchar(100)
